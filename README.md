@@ -1,4 +1,4 @@
-### Hello word, I'm Pablo Hernández Jiménez- aka CMDMegaBites / PHelsing 👋
+### Hello world, I'm Pablo Hernández Jiménez- aka CMDMegaBites / PHelsing 👋
 And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ## Im ALWAYS learning new things
@@ -10,15 +10,15 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 ### 🗣 My activity:
 
 * ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-09T23:51:26Z</b>
+  <b>2020-08-09T23:53:25Z</b>
 </p>
 
 ### Languages and Tools:
