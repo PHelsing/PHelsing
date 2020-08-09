@@ -9,16 +9,16 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ### 🗣 My activity:
 
+* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-09T23:49:27Z</b>
+  <b>2020-08-09T23:51:26Z</b>
 </p>
 
 ### Languages and Tools:
@@ -41,11 +41,10 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-<img align="left" alt="CMDMegaBites Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDMegaBites&layout=compact"/>
-
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
