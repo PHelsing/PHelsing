@@ -35,5 +35,3 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="CMDMegaBites Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
