@@ -2,7 +2,7 @@
 And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ## Im ALWAYS learning new things
-- :video_game: Working on exiting games in UNITY
+- :video_game: Working on exciting games in UNITY
 - :game_die: Coding random things (ALWAYS)
 - :rocket: Making a lot of progress in a Game Launcher proyect :D
 <br />
@@ -11,14 +11,14 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 * ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-09T23:53:25Z</b>
+  <b>2020-08-09T23:55:23Z</b>
 </p>
 
 ### Languages and Tools:
