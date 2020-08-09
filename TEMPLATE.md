@@ -2,7 +2,7 @@
 And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ## Im ALWAYS learning new things
-- :video_game: Working on exiting games in UNITY
+- :video_game: Working on exciting games in UNITY
 - :game_die: Coding random things (ALWAYS)
 - :rocket: Making a lot of progress in a Game Launcher proyect :D
 <br />
