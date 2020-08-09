@@ -1,4 +1,4 @@
-### Hello word, I'm Pablo Hernández Jiménez- aka CMDMegaBites / PHelsing 👋
+### Hello world, I'm Pablo Hernández Jiménez- aka CMDMegaBites / PHelsing 👋
 And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ## Im ALWAYS learning new things
