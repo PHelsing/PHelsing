@@ -9,16 +9,16 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ### 🗣 My activity:
 
-* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
 * ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-10T16:02:25Z</b>
+  <b>2020-08-10T16:39:27Z</b>
 </p>
 
 ### Languages and Tools:
@@ -44,7 +44,7 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMDMegaBites&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
