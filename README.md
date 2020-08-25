@@ -11,14 +11,14 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
-* ❗️ Opened issue #130 in step-up-labs/firebase-authentication-dotnet
-* ⬆️ Pushed 1 commit to CMDMegaBites/CMDMegaBites
-* ⬆️ Pushed 2 commits to CMDMegaBites/CMDMegaBites
+* ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
+* 📦 Released "v0.1.1-alpha" in CMDMegaBites/QuarkLauncher
+* ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-25T16:02:15Z</b>
+  <b>2020-08-25T17:02:18Z</b>
 </p>
 
 ### Languages and Tools:
