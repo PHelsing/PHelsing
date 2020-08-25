@@ -12,13 +12,13 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
-* 📦 Released "v0.1.1-alpha" in CMDMegaBites/QuarkLauncher
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
+* 📦 Released "v0.1.1-alpha" in CMDMegaBites/QuarkLauncher
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-25T17:02:18Z</b>
+  <b>2020-08-25T18:02:32Z</b>
 </p>
 
 ### Languages and Tools:
