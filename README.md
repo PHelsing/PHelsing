@@ -9,16 +9,16 @@ And yes. I have multiple names, in that regard I'm like a schrödinger cat :cat:
 
 ### 🗣 My activity:
 
+* 📦 Released "v0.1.2-alpha" in CMDMegaBites/QuarkLauncher
+* 🍴 Forked CMDMegaBites/Best-README-Template from othneildrew/Best-README-Template
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
 * ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
-* ⬆️ Pushed 1 commit to CMDMegaBites/QuarkLauncher
-* 📦 Released "v0.1.1-alpha" in CMDMegaBites/QuarkLauncher
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-26T09:02:14Z</b>
+  <b>2020-08-26T10:03:47Z</b>
 </p>
 
 ### Languages and Tools:
